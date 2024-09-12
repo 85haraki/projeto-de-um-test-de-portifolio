@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:wheat;
+}
+span{
+    color: rgb(3, 156, 245);
+    border: 1px solid #150767;
+    padding: 10px;
+}
